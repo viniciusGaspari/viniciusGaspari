@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there. 
-### My name is Vinicius, I'm from Brazil 👋
+### Hi there👋
+### My name is Vinicius, I'm from Brazil 
 - 🌱 I’m new to the front-end languages and currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intent to learn new languages!
 - 🏠 Feel free to explore my repositories!
 

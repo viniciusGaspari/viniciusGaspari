@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there👋
+### Hi, devs👋
 ### My name is Vinicius, I'm from Brazil 
-- 🌱 I’m new to the front-end languages and currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intent to learn new languages!
+- 🌱 I’m new to the front-end languages, currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intent to learn new languages!
 - 🏠 Feel free to explore my repositories!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusGaspari&show_icons=true&theme=dark)

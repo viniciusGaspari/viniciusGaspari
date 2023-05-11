@@ -6,7 +6,7 @@
 - 🏠 Feel free to explore my repositories!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusGaspari&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusGaspari&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusGaspari&hide_progress=true)
 
 <div>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <!-- JAVASCRIPT -->

@@ -3,7 +3,7 @@
 <h1>About me</h1>
 Hi, dev👋<br></br>
 My name is Vinicius, I'm from Brazil <br></br>
-- 🌱 I’m new to the front-end languages, currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intent to learn new languages!<br></br>
+- 🌱 I’m new to the front-end languages, currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intend to learn new languages!<br></br>
 - 🏠 Feel free to explore my repositories!
 </div>
 <div>

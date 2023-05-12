@@ -1,11 +1,14 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <div>
 <h1>About me</h1>
+ 
 Hi, dev👋<br></br>
+
 My name is Vinicius, I'm from Brazil <br></br>
+
 - 🌱 I’m new to the front-end languages, currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intend to learn new languages!<br></br>
 - 🏠 Feel free to explore my repositories!
 </div>
+
 <div>
   <h1>My Progress</h1>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <!-- JAVASCRIPT -->

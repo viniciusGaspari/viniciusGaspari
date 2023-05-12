@@ -11,8 +11,8 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusGaspari&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</a>
 
+<a href="https://www.linkedin.com/in/vin%C3%ADcius-de-gaspari-a84164195/">Link to my Linkedin</a>
 
 
 

@@ -10,7 +10,7 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS -->
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark)]([https://github.com/anuraghazra/github-readme-stats](https://www.linkedin.com/in/vin%C3%ADcius-de-gaspari-a84164195/))
 ![Top Langs[](https://github-readme-stats.vercel.app](https://www.linkedin.com/in/vin%C3%ADcius-de-gaspari-a84164195/api/top-langs/?username=viniciusGaspari&hide_progress=true)
 
 

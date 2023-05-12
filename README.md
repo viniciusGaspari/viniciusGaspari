@@ -11,7 +11,7 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusGaspari&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusGaspari&hide_progress=true)
+![Top Langs[](https://github-readme-stats.vercel.app](https://www.linkedin.com/in/vin%C3%ADcius-de-gaspari-a84164195/api/top-langs/?username=viniciusGaspari&hide_progress=true)
 
 
 

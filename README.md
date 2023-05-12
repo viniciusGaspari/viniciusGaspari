@@ -6,6 +6,7 @@
 - 🌱 I’m new to the front-end languages, currently I'm studying <strong>HTML5, CSS3</strong> and <strong>JavaScript</strong> and I intent to learn new languages!
 - 🏠 Feel free to explore my repositories!
 <div>
+  <h1>My Progress</h1>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <!-- JAVASCRIPT -->
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <!-- JAVASCRIPT -->
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS -->

@@ -10,8 +10,8 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS -->
 </div>
 
-<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</a>
+<a href="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusGaspari&show_icons=true&theme=radical)"></a>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)</a>
 
 
 

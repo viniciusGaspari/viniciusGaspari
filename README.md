@@ -9,13 +9,11 @@ Hi, dev👋<br></br>
 </div>
 
 <div>
-  <h1>My Progress</h1>
+  <h1>Language Programming</h1>
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <!-- JAVASCRIPT -->
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <!-- JAVASCRIPT -->
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <!-- CSS -->
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusGaspari&show_icons=true&theme=radical)
 
 <div>
   <h1>My Socials Medias</h1>

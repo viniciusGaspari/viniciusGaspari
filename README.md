@@ -16,7 +16,7 @@ Hi, dev👋<br></br>
 </div>
 
 <div>
-  <h1>My Socials Medias</h1>
+  <h1>Socials Medias</h1>
     <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-gaspari-a84164195/" target="_blank"><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"</a></img>
 </div>
 

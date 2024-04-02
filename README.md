@@ -10,7 +10,7 @@ Hi, dev👋<br></br>
 
 <div>
   <h1>Language Programming</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<i class="devicon-java-plain"></i>
 </div>
 
 <div>

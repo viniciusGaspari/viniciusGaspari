@@ -4,7 +4,7 @@
 Hi, dev👋<br></br>
 
 - 🧑🏻‍🦱 My name is Vinicius, I'm from Brazil <br></br>
-- 🌱 I’m new to the front-end languages, currently I'm studying <strong>Java 21</strong> and I intend to learn new languages, APIs and technologies!<br></br>
+- 🌱 I’m new to the backend languages, currently I'm studying <strong>Java 21</strong> and I intend to learn new languages, APIs and technologies!<br></br>
 - 🏠 Feel free to explore my repositories!
 </div>
 

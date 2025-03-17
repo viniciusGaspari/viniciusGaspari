@@ -9,7 +9,7 @@ Hi, dev👋<br></br>
 </div>
 
 <div>
-  <h1>Language Programming</h1>
+  <h1>Technologies</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="100" />       

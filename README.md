@@ -9,7 +9,7 @@ Hi, dev👋<br></br>
 </div>
 
 <div>
-  <h1>Technologies</h1>
+  <h2>Technologies</h2>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="100" />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="100" />
@@ -20,7 +20,7 @@ Hi, dev👋<br></br>
 </div>
 
 <div>
-  <h1>Socials Medias</h1>
+  <h2>Socials Medias</h2>
     <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-gaspari-a84164195/" target="_blank"><img width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"</a></img>
 </div>
 

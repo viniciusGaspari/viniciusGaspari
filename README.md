@@ -4,12 +4,13 @@
 Hi, dev👋<br></br>
 
 - 🧑🏻‍🦱 My name is Vinicius, I'm from Brazil <br></br>
-- 🌱 I’m new to the backend languages, currently I'm studying <strong>Java 21</strong> and <strong>Spring Boot</strong> I intend to learn new languages, APIs and technologies!<br></br>
+- 🌱 I’m new to the backend languages, currently I'm studying <strong>Delphi</strong>. I intend to learn new languages, APIs and technologies!<br></br>
 - 🏠 Feel free to explore my repositories!
 </div>
 
 <div>
   <h2>Technologies</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg"  width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="100" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="100" />       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="100" />

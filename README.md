@@ -1,12 +1,15 @@
-<div>
-<h1>About me</h1>
- 
-Hi, dev👋<br></br>
+## 🚀 Bem-vindo ao meu perfil!
 
-- 🧑🏻‍🦱 My name is Vinicius, I'm from Brazil <br></br>
-- 🌱 Currently I'm studying <strong>Angular with TypeScript</strong>. I intend to learn new languages, APIs and technologies!<br></br>
-- 🏠 Feel free to explore my repositories!
-</div>
+Se você chegou aqui através do meu **currículo**, facilitei sua navegação: 
+os projetos principais citados (TrackerAPI, Controle de Estoque e testes técnicos) 
+estão destacados na seção **"Pinned" (Fixados)** logo abaixo. 👇
+
+---
+
+### 🛠️ No que estou trabalhando agora:
+* **Full Stack:** Evoluindo aplicações com **Angular 17+**, **Node.js** e **Spring Boot**.
+* **Mobile:** Desenvolvendo interfaces fluidas com **Flutter**.
+* **Banco de Dados:** Otimizando queries e estruturas no **PostgreSQL**.
 
 <div>
   <h2>Technologies</h2>
